@@ -6,7 +6,7 @@ Over the past year, I've dived deep into **algorithmic fairness**. In fact, I re
 
 #### What I'm currently working on
 
-I'm exploring backend engineering through a sports arbitrage project (*surebets*). I focus on **concurrent execution** to minimize latency across multiple real-time data sources, and on building robust **data normalization** pipelines to unify disparate data models.
+Enhancing my [final degree project](https://github.com/alvaromalfaro/codenames-llm-bias) and exploring LLM integration into robotics.
 
 #### Tech stack and tools
 
